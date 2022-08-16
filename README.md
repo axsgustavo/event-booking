@@ -1,6 +1,8 @@
 # EventBooking_
 Plataforma de caledario de eventos.
 
+Link: https://event-booking-mind.vercel.app/
+
 ### O que foi usado:
 * react
 * typescript
