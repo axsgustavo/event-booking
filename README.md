@@ -18,6 +18,6 @@ Aplicação desenvolvida em ReactJS e Styled-Components.
 * Feito os passos acima, o projeto deverá estar rodando na porta 3000 no endereço http://localhost:3000. Logo que executar o comando, a aplicação estará rodando no `http://localhost:3000`.
 
 ### O que falta adicionar:
-- [] Deletar evento;
-- [] Editar evento;
-- [] Filtrar por mês, ano;
+- [ ] Deletar evento;
+- [ ] Editar evento;
+- [ ] Filtrar por mês, ano;
