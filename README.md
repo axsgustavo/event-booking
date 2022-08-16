@@ -1,7 +1,7 @@
 # EventBooking_
 Plataforma de caledario de eventos.
 
-### O que foi usado
+### O que foi usado:
 * react
 * typescript
 * styled-components
